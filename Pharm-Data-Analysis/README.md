@@ -17,5 +17,3 @@ Analyze pharmaceutical sales data from 2017 to 2020 and uncover insights across 
 ## Dashboard Preview
 ![Dashboard Screenshot](./Revenue_Page.png)
 
-## Files
-- PharmDataDashboard.pbix

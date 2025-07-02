@@ -13,5 +13,6 @@ Provide insights into vendor performance and product category spending in Decemb
 - Analyzed daily expenditure trends.
 - Visual layout designed for quick procurement decisions.
 
-## Files
-- DecemberPurchaseReport.pbix
+## Dashboard Preview
+![Dashboard Screenshot](./December_purchase_report_analysis.png)
+
